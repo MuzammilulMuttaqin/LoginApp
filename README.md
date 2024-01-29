@@ -1,6 +1,6 @@
 # login_app
 
-A new Flutter project.
+Login App with rest api
 
 ## Getting Started
 
